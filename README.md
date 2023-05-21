@@ -20,5 +20,4 @@
 
 ***
 ### Топология сети
-<img src="https://raw.githubusercontent.com/AndromedaNGC/Workstation/main/img/Topologies/Pasted%20image%2020230521191946.png">
-![[Pasted image 20230521192352.png]]
+<img src="https://raw.githubusercontent.com/AndromedaNGC/Workstation/main/img/Topologies/Pasted%20image%2020230521192352.png">
