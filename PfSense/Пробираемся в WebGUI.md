@@ -1,6 +1,7 @@
 После установки мы можем зайти на WebGUI самого PfSense по адресу в браузере “192.168.1.1“, но если у вас, как и у меня WAN адрес такой же как и у LAN, то лучше бы LAN адрес сменить на другой.
 
 1. Выбираем пункт 2 “Set interface(s) IP address“
+   
    <img src="https://raw.githubusercontent.com/AndromedaNGC/Workstation/main/PfSense/img/%D0%9F%D1%80%D0%BE%D0%B1%D0%B8%D1%80%D0%B0%D0%B5%D0%BC%D1%81%D1%8F%20%D0%B2%20WebGUI/Pasted%20image%2020230521201856.png" width=500>
    
 2. Тут также выбираем пункт 2 “LAN (em1 - static)“
